@@ -6,5 +6,5 @@ for i in range(len(x)):
         Up+=1
     elif x[i].islower():
         Low+=1
-print('Uppercase letters :',+Up)
-print('Lowercase letters :',+Low)
+print(Low)
+print(Up)
