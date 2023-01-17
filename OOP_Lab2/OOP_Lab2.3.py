@@ -1,5 +1,5 @@
 def delete_minus(x):
-    return [[two for two in one if two >= 0] for one in x]
+    return [[two for two in one if two >= 0] for one in x] 
 
 print(delete_minus([ [1, -3, 2], [-8, 5], [-1, -4, -3] ]))
 # def count_char_in_string(x,c):

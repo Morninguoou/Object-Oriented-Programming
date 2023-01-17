@@ -30,4 +30,4 @@ def date_diff(first,second):
 
     return totalDay
 
-print(date_diff(input(),input()))
+print(date_diff(input(),input())) 

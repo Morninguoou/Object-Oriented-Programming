@@ -3,4 +3,4 @@ def add2list(lst1,lst2):
 
 one = input().split
 two = input().split
-print(add2list(one,two)) #เหลือแก้รับอินพุท
+print(add2list(one,two)) #เหลือแก้รับอินพุท 

@@ -6,7 +6,7 @@ ans = 1
 for i in range(len(num)): #check 0
     if num[i] == 0:
         check +=1
-    else: continue
+    else: continue 
 
 if check > 0: #multiple 10 ans del 0
     if check == 1:

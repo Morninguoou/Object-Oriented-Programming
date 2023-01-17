@@ -9,4 +9,4 @@ def day_of_year(d,m,y):
     for i in range(m):
         sum+=dayInMonth[i]
     sum += d
-    return sum
+    return sum 
