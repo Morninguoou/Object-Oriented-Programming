@@ -1,3 +1,2 @@
 def count_minus(str):
-    return len([int(count) for count in str if int(count) < 0])
-print(count_minus(input().split())) 
+    return len([int(count) for count in str.split() if int(count) < 0])
